@@ -1,0 +1,1137 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 74,
+    "credits_used_this_request": 2,
+    "credits_remaining": 51,
+    "credits_reset_at": "2023-01-21T09:11:54.000Z"
+  },
+  "search_parameters": {
+    "search_type": "places",
+    "q": "會議場地",
+    "location": "Taipei City,Taiwan",
+    "google_domain": "google.com.tw",
+    "gl": "tw",
+    "hl": "zh-tw",
+    "output": "json",
+    "include_html": "false",
+    "page": "1",
+    "max_page": "5",
+    "num": "20",
+    "engine": "google"
+  },
+  "search_metadata": {
+    "created_at": "2023-01-04T07:34:10.120Z",
+    "processed_at": "2023-01-04T07:34:23.577Z",
+    "total_time_taken": 13.46,
+    "pages": [
+      {
+        "created_at": "2023-01-04T07:34:10.120Z",
+        "processed_at": "2023-01-04T07:34:16.014Z",
+        "total_time_taken": 5.89,
+        "page": "1",
+        "engine_url": "https://www.google.com.tw/search?q=%E6%9C%83%E8%AD%B0%E5%A0%B4%E5%9C%B0&gl=tw&hl=zh-tw&uule=w+CAIQICISVGFpcGVpIENpdHksVGFpd2Fu&tbm=lcl&num=20",
+        "html_url": "https://api.scaleserp.com/search?api_key=14254FCE1A2D441A836733D330465D02&search_type=places&q=%E6%9C%83%E8%AD%B0%E5%A0%B4%E5%9C%B0&location=Taipei+City%2CTaiwan&google_domain=google.com.tw&gl=tw&hl=zh-tw&output=html&include_html=false&page=1&max_page=5&num=20&engine=google",
+        "json_url": "https://api.scaleserp.com/search?api_key=14254FCE1A2D441A836733D330465D02&search_type=places&q=%E6%9C%83%E8%AD%B0%E5%A0%B4%E5%9C%B0&location=Taipei+City%2CTaiwan&google_domain=google.com.tw&gl=tw&hl=zh-tw&output=json&include_html=false&page=1&max_page=5&num=20&engine=google",
+        "location_auto_message": "We have automatically set the 'google_domain', 'gl' and 'hl' parameters to match the supplied location of 'Taipei City,Taiwan'. You can stop this behaviour by setting the 'location_auto' parameter to 'false'.",
+        "num_parameter_message": "'num' parameter has no effect when the 'search_type' parameter is set to 'places'. This is because Google fix the number of Places results to 20 (this is a Google-imposed limitation). You can paginate through Places results using the 'page' parameter, i.e. 'page=1' for page 1, 'page=2' for page 2 etc."
+      },
+      {
+        "created_at": "2023-01-04T07:34:16.015Z",
+        "processed_at": "2023-01-04T07:34:23.577Z",
+        "total_time_taken": 7.56,
+        "page": 2,
+        "engine_url": "https://www.google.com.tw/search?q=%E6%9C%83%E8%AD%B0%E5%A0%B4%E5%9C%B0&gl=tw&hl=zh-tw&uule=w+CAIQICISVGFpcGVpIENpdHksVGFpd2Fu&tbm=lcl&start=20&num=20",
+        "html_url": "https://api.scaleserp.com/search?api_key=14254FCE1A2D441A836733D330465D02&search_type=places&q=%E6%9C%83%E8%AD%B0%E5%A0%B4%E5%9C%B0&location=Taipei+City%2CTaiwan&google_domain=google.com.tw&gl=tw&hl=zh-tw&output=html&include_html=false&page=2&max_page=5&num=20&engine=google",
+        "json_url": "https://api.scaleserp.com/search?api_key=14254FCE1A2D441A836733D330465D02&search_type=places&q=%E6%9C%83%E8%AD%B0%E5%A0%B4%E5%9C%B0&location=Taipei+City%2CTaiwan&google_domain=google.com.tw&gl=tw&hl=zh-tw&output=json&include_html=false&page=2&max_page=5&num=20&engine=google",
+        "location_auto_message": "We have automatically set the 'google_domain', 'gl' and 'hl' parameters to match the supplied location of 'Taipei City,Taiwan'. You can stop this behaviour by setting the 'location_auto' parameter to 'false'.",
+        "num_parameter_message": "'num' parameter has no effect when the 'search_type' parameter is set to 'places'. This is because Google fix the number of Places results to 20 (this is a Google-imposed limitation). You can paginate through Places results using the 'page' parameter, i.e. 'page=1' for page 1, 'page=2' for page 2 etc."
+      }
+    ]
+  },
+  "search_information": {
+    "original_query_yields_zero_results": false,
+    "query_displayed": "會議場地",
+    "detected_location": "台灣"
+  },
+  "pagination": {
+    "pages": [
+      {
+        "current": 1,
+        "next": "https://www.google.com.tw/search?q=%E6%9C%83%E8%AD%B0%E5%A0%B4%E5%9C%B0&gl=tw&hl=zh-tw&tbm=lcl&ei=9iu1Y7vfEsrMkPIPoJiAsAU&start=20&sa=N&ved=2ahUKEwi7sryws638AhVKJkQIHSAMAFYQ8NMDegQIGRAe&uule=w+CAIQICISVGFpcGVpIENpdHksVGFpd2Fu",
+        "other_pages": [
+          {
+            "page": 2,
+            "link": "https://www.google.com.tw/search?q=%E6%9C%83%E8%AD%B0%E5%A0%B4%E5%9C%B0&gl=tw&hl=zh-tw&tbm=lcl&ei=9iu1Y7vfEsrMkPIPoJiAsAU&start=20&sa=N&ved=2ahUKEwi7sryws638AhVKJkQIHSAMAFYQ8tMDegQIGRAM&uule=w+CAIQICISVGFpcGVpIENpdHksVGFpd2Fu"
+          },
+          {
+            "page": 3,
+            "link": "https://www.google.com.tw/search?q=%E6%9C%83%E8%AD%B0%E5%A0%B4%E5%9C%B0&gl=tw&hl=zh-tw&tbm=lcl&ei=9iu1Y7vfEsrMkPIPoJiAsAU&start=40&sa=N&ved=2ahUKEwi7sryws638AhVKJkQIHSAMAFYQ8tMDegQIGRAO&uule=w+CAIQICISVGFpcGVpIENpdHksVGFpd2Fu"
+          },
+          {
+            "page": 4,
+            "link": "https://www.google.com.tw/search?q=%E6%9C%83%E8%AD%B0%E5%A0%B4%E5%9C%B0&gl=tw&hl=zh-tw&tbm=lcl&ei=9iu1Y7vfEsrMkPIPoJiAsAU&start=60&sa=N&ved=2ahUKEwi7sryws638AhVKJkQIHSAMAFYQ8tMDegQIGRAQ&uule=w+CAIQICISVGFpcGVpIENpdHksVGFpd2Fu"
+          },
+          {
+            "page": 5,
+            "link": "https://www.google.com.tw/search?q=%E6%9C%83%E8%AD%B0%E5%A0%B4%E5%9C%B0&gl=tw&hl=zh-tw&tbm=lcl&ei=9iu1Y7vfEsrMkPIPoJiAsAU&start=80&sa=N&ved=2ahUKEwi7sryws638AhVKJkQIHSAMAFYQ8tMDegQIGRAS&uule=w+CAIQICISVGFpcGVpIENpdHksVGFpd2Fu"
+          },
+          {
+            "page": 6,
+            "link": "https://www.google.com.tw/search?q=%E6%9C%83%E8%AD%B0%E5%A0%B4%E5%9C%B0&gl=tw&hl=zh-tw&tbm=lcl&ei=9iu1Y7vfEsrMkPIPoJiAsAU&start=100&sa=N&ved=2ahUKEwi7sryws638AhVKJkQIHSAMAFYQ8tMDegQIGRAU&uule=w+CAIQICISVGFpcGVpIENpdHksVGFpd2Fu"
+          },
+          {
+            "page": 7,
+            "link": "https://www.google.com.tw/search?q=%E6%9C%83%E8%AD%B0%E5%A0%B4%E5%9C%B0&gl=tw&hl=zh-tw&tbm=lcl&ei=9iu1Y7vfEsrMkPIPoJiAsAU&start=120&sa=N&ved=2ahUKEwi7sryws638AhVKJkQIHSAMAFYQ8tMDegQIGRAW&uule=w+CAIQICISVGFpcGVpIENpdHksVGFpd2Fu"
+          },
+          {
+            "page": 8,
+            "link": "https://www.google.com.tw/search?q=%E6%9C%83%E8%AD%B0%E5%A0%B4%E5%9C%B0&gl=tw&hl=zh-tw&tbm=lcl&ei=9iu1Y7vfEsrMkPIPoJiAsAU&start=140&sa=N&ved=2ahUKEwi7sryws638AhVKJkQIHSAMAFYQ8tMDegQIGRAY&uule=w+CAIQICISVGFpcGVpIENpdHksVGFpd2Fu"
+          },
+          {
+            "page": 9,
+            "link": "https://www.google.com.tw/search?q=%E6%9C%83%E8%AD%B0%E5%A0%B4%E5%9C%B0&gl=tw&hl=zh-tw&tbm=lcl&ei=9iu1Y7vfEsrMkPIPoJiAsAU&start=160&sa=N&ved=2ahUKEwi7sryws638AhVKJkQIHSAMAFYQ8tMDegQIGRAa&uule=w+CAIQICISVGFpcGVpIENpdHksVGFpd2Fu"
+          },
+          {
+            "page": 10,
+            "link": "https://www.google.com.tw/search?q=%E6%9C%83%E8%AD%B0%E5%A0%B4%E5%9C%B0&gl=tw&hl=zh-tw&tbm=lcl&ei=9iu1Y7vfEsrMkPIPoJiAsAU&start=180&sa=N&ved=2ahUKEwi7sryws638AhVKJkQIHSAMAFYQ8tMDegQIGRAc&uule=w+CAIQICISVGFpcGVpIENpdHksVGFpd2Fu"
+          }
+        ],
+        "api_pagination": {
+          "next": "https://api.scaleserp.com/search?api_key=14254FCE1A2D441A836733D330465D02&search_type=places&q=%E6%9C%83%E8%AD%B0%E5%A0%B4%E5%9C%B0&location=Taipei%20City,Taiwan&google_domain=google.com.tw&gl=tw&hl=zh-tw&output=json&include_html=false&max_page=5&id=req0&page=2",
+          "other_pages": [
+            {
+              "page": 2,
+              "link": "https://api.scaleserp.com/search?api_key=14254FCE1A2D441A836733D330465D02&search_type=places&q=%E6%9C%83%E8%AD%B0%E5%A0%B4%E5%9C%B0&location=Taipei%20City,Taiwan&google_domain=google.com.tw&gl=tw&hl=zh-tw&output=json&include_html=false&max_page=5&id=req0&page=2"
+            },
+            {
+              "page": 3,
+              "link": "https://api.scaleserp.com/search?api_key=14254FCE1A2D441A836733D330465D02&search_type=places&q=%E6%9C%83%E8%AD%B0%E5%A0%B4%E5%9C%B0&location=Taipei%20City,Taiwan&google_domain=google.com.tw&gl=tw&hl=zh-tw&output=json&include_html=false&max_page=5&id=req0&page=3"
+            },
+            {
+              "page": 4,
+              "link": "https://api.scaleserp.com/search?api_key=14254FCE1A2D441A836733D330465D02&search_type=places&q=%E6%9C%83%E8%AD%B0%E5%A0%B4%E5%9C%B0&location=Taipei%20City,Taiwan&google_domain=google.com.tw&gl=tw&hl=zh-tw&output=json&include_html=false&max_page=5&id=req0&page=4"
+            },
+            {
+              "page": 5,
+              "link": "https://api.scaleserp.com/search?api_key=14254FCE1A2D441A836733D330465D02&search_type=places&q=%E6%9C%83%E8%AD%B0%E5%A0%B4%E5%9C%B0&location=Taipei%20City,Taiwan&google_domain=google.com.tw&gl=tw&hl=zh-tw&output=json&include_html=false&max_page=5&id=req0&page=5"
+            },
+            {
+              "page": 6,
+              "link": "https://api.scaleserp.com/search?api_key=14254FCE1A2D441A836733D330465D02&search_type=places&q=%E6%9C%83%E8%AD%B0%E5%A0%B4%E5%9C%B0&location=Taipei%20City,Taiwan&google_domain=google.com.tw&gl=tw&hl=zh-tw&output=json&include_html=false&max_page=5&id=req0&page=6"
+            },
+            {
+              "page": 7,
+              "link": "https://api.scaleserp.com/search?api_key=14254FCE1A2D441A836733D330465D02&search_type=places&q=%E6%9C%83%E8%AD%B0%E5%A0%B4%E5%9C%B0&location=Taipei%20City,Taiwan&google_domain=google.com.tw&gl=tw&hl=zh-tw&output=json&include_html=false&max_page=5&id=req0&page=7"
+            },
+            {
+              "page": 8,
+              "link": "https://api.scaleserp.com/search?api_key=14254FCE1A2D441A836733D330465D02&search_type=places&q=%E6%9C%83%E8%AD%B0%E5%A0%B4%E5%9C%B0&location=Taipei%20City,Taiwan&google_domain=google.com.tw&gl=tw&hl=zh-tw&output=json&include_html=false&max_page=5&id=req0&page=8"
+            },
+            {
+              "page": 9,
+              "link": "https://api.scaleserp.com/search?api_key=14254FCE1A2D441A836733D330465D02&search_type=places&q=%E6%9C%83%E8%AD%B0%E5%A0%B4%E5%9C%B0&location=Taipei%20City,Taiwan&google_domain=google.com.tw&gl=tw&hl=zh-tw&output=json&include_html=false&max_page=5&id=req0&page=9"
+            },
+            {
+              "page": 10,
+              "link": "https://api.scaleserp.com/search?api_key=14254FCE1A2D441A836733D330465D02&search_type=places&q=%E6%9C%83%E8%AD%B0%E5%A0%B4%E5%9C%B0&location=Taipei%20City,Taiwan&google_domain=google.com.tw&gl=tw&hl=zh-tw&output=json&include_html=false&max_page=5&id=req0&page=10"
+            }
+          ]
+        }
+      },
+      {
+        "current": 2,
+        "next": "https://www.google.com.tw/search?q=%E6%9C%83%E8%AD%B0%E5%A0%B4%E5%9C%B0&gl=tw&hl=zh-tw&tbm=lcl&ei=_iu1Y868C4-Oxc8P9sizoAI&start=40&sa=N&ved=2ahUKEwjOs520s638AhUPR_EDHXbkDCQ4FBDw0wN6BAgEEB0&uule=w+CAIQICISVGFpcGVpIENpdHksVGFpd2Fu",
+        "other_pages": [
+          {
+            "page": 1,
+            "link": "https://www.google.com.tw/search?q=%E6%9C%83%E8%AD%B0%E5%A0%B4%E5%9C%B0&gl=tw&hl=zh-tw&tbm=lcl&ei=_iu1Y868C4-Oxc8P9sizoAI&start=0&sa=N&ved=2ahUKEwjOs520s638AhUPR_EDHXbkDCQ4FBDy0wN6BAgEEAo&uule=w+CAIQICISVGFpcGVpIENpdHksVGFpd2Fu"
+          },
+          {
+            "page": 3,
+            "link": "https://www.google.com.tw/search?q=%E6%9C%83%E8%AD%B0%E5%A0%B4%E5%9C%B0&gl=tw&hl=zh-tw&tbm=lcl&ei=_iu1Y868C4-Oxc8P9sizoAI&start=40&sa=N&ved=2ahUKEwjOs520s638AhUPR_EDHXbkDCQ4FBDy0wN6BAgEEA0&uule=w+CAIQICISVGFpcGVpIENpdHksVGFpd2Fu"
+          },
+          {
+            "page": 4,
+            "link": "https://www.google.com.tw/search?q=%E6%9C%83%E8%AD%B0%E5%A0%B4%E5%9C%B0&gl=tw&hl=zh-tw&tbm=lcl&ei=_iu1Y868C4-Oxc8P9sizoAI&start=60&sa=N&ved=2ahUKEwjOs520s638AhUPR_EDHXbkDCQ4FBDy0wN6BAgEEA8&uule=w+CAIQICISVGFpcGVpIENpdHksVGFpd2Fu"
+          },
+          {
+            "page": 5,
+            "link": "https://www.google.com.tw/search?q=%E6%9C%83%E8%AD%B0%E5%A0%B4%E5%9C%B0&gl=tw&hl=zh-tw&tbm=lcl&ei=_iu1Y868C4-Oxc8P9sizoAI&start=80&sa=N&ved=2ahUKEwjOs520s638AhUPR_EDHXbkDCQ4FBDy0wN6BAgEEBE&uule=w+CAIQICISVGFpcGVpIENpdHksVGFpd2Fu"
+          },
+          {
+            "page": 6,
+            "link": "https://www.google.com.tw/search?q=%E6%9C%83%E8%AD%B0%E5%A0%B4%E5%9C%B0&gl=tw&hl=zh-tw&tbm=lcl&ei=_iu1Y868C4-Oxc8P9sizoAI&start=100&sa=N&ved=2ahUKEwjOs520s638AhUPR_EDHXbkDCQ4FBDy0wN6BAgEEBM&uule=w+CAIQICISVGFpcGVpIENpdHksVGFpd2Fu"
+          },
+          {
+            "page": 7,
+            "link": "https://www.google.com.tw/search?q=%E6%9C%83%E8%AD%B0%E5%A0%B4%E5%9C%B0&gl=tw&hl=zh-tw&tbm=lcl&ei=_iu1Y868C4-Oxc8P9sizoAI&start=120&sa=N&ved=2ahUKEwjOs520s638AhUPR_EDHXbkDCQ4FBDy0wN6BAgEEBU&uule=w+CAIQICISVGFpcGVpIENpdHksVGFpd2Fu"
+          },
+          {
+            "page": 8,
+            "link": "https://www.google.com.tw/search?q=%E6%9C%83%E8%AD%B0%E5%A0%B4%E5%9C%B0&gl=tw&hl=zh-tw&tbm=lcl&ei=_iu1Y868C4-Oxc8P9sizoAI&start=140&sa=N&ved=2ahUKEwjOs520s638AhUPR_EDHXbkDCQ4FBDy0wN6BAgEEBc&uule=w+CAIQICISVGFpcGVpIENpdHksVGFpd2Fu"
+          },
+          {
+            "page": 9,
+            "link": "https://www.google.com.tw/search?q=%E6%9C%83%E8%AD%B0%E5%A0%B4%E5%9C%B0&gl=tw&hl=zh-tw&tbm=lcl&ei=_iu1Y868C4-Oxc8P9sizoAI&start=160&sa=N&ved=2ahUKEwjOs520s638AhUPR_EDHXbkDCQ4FBDy0wN6BAgEEBk&uule=w+CAIQICISVGFpcGVpIENpdHksVGFpd2Fu"
+          },
+          {
+            "page": 10,
+            "link": "https://www.google.com.tw/search?q=%E6%9C%83%E8%AD%B0%E5%A0%B4%E5%9C%B0&gl=tw&hl=zh-tw&tbm=lcl&ei=_iu1Y868C4-Oxc8P9sizoAI&start=180&sa=N&ved=2ahUKEwjOs520s638AhUPR_EDHXbkDCQ4FBDy0wN6BAgEEBs&uule=w+CAIQICISVGFpcGVpIENpdHksVGFpd2Fu"
+          }
+        ],
+        "api_pagination": {
+          "next": "https://api.scaleserp.com/search?api_key=14254FCE1A2D441A836733D330465D02&search_type=places&q=%E6%9C%83%E8%AD%B0%E5%A0%B4%E5%9C%B0&location=Taipei%20City,Taiwan&google_domain=google.com.tw&gl=tw&hl=zh-tw&output=json&include_html=false&max_page=5&id=req0_0002&page=3",
+          "other_pages": [
+            {
+              "page": 1,
+              "link": "https://api.scaleserp.com/search?api_key=14254FCE1A2D441A836733D330465D02&search_type=places&q=%E6%9C%83%E8%AD%B0%E5%A0%B4%E5%9C%B0&location=Taipei%20City,Taiwan&google_domain=google.com.tw&gl=tw&hl=zh-tw&output=json&include_html=false&max_page=5&id=req0_0002&page=1"
+            },
+            {
+              "page": 3,
+              "link": "https://api.scaleserp.com/search?api_key=14254FCE1A2D441A836733D330465D02&search_type=places&q=%E6%9C%83%E8%AD%B0%E5%A0%B4%E5%9C%B0&location=Taipei%20City,Taiwan&google_domain=google.com.tw&gl=tw&hl=zh-tw&output=json&include_html=false&max_page=5&id=req0_0002&page=3"
+            },
+            {
+              "page": 4,
+              "link": "https://api.scaleserp.com/search?api_key=14254FCE1A2D441A836733D330465D02&search_type=places&q=%E6%9C%83%E8%AD%B0%E5%A0%B4%E5%9C%B0&location=Taipei%20City,Taiwan&google_domain=google.com.tw&gl=tw&hl=zh-tw&output=json&include_html=false&max_page=5&id=req0_0002&page=4"
+            },
+            {
+              "page": 5,
+              "link": "https://api.scaleserp.com/search?api_key=14254FCE1A2D441A836733D330465D02&search_type=places&q=%E6%9C%83%E8%AD%B0%E5%A0%B4%E5%9C%B0&location=Taipei%20City,Taiwan&google_domain=google.com.tw&gl=tw&hl=zh-tw&output=json&include_html=false&max_page=5&id=req0_0002&page=5"
+            },
+            {
+              "page": 6,
+              "link": "https://api.scaleserp.com/search?api_key=14254FCE1A2D441A836733D330465D02&search_type=places&q=%E6%9C%83%E8%AD%B0%E5%A0%B4%E5%9C%B0&location=Taipei%20City,Taiwan&google_domain=google.com.tw&gl=tw&hl=zh-tw&output=json&include_html=false&max_page=5&id=req0_0002&page=6"
+            },
+            {
+              "page": 7,
+              "link": "https://api.scaleserp.com/search?api_key=14254FCE1A2D441A836733D330465D02&search_type=places&q=%E6%9C%83%E8%AD%B0%E5%A0%B4%E5%9C%B0&location=Taipei%20City,Taiwan&google_domain=google.com.tw&gl=tw&hl=zh-tw&output=json&include_html=false&max_page=5&id=req0_0002&page=7"
+            },
+            {
+              "page": 8,
+              "link": "https://api.scaleserp.com/search?api_key=14254FCE1A2D441A836733D330465D02&search_type=places&q=%E6%9C%83%E8%AD%B0%E5%A0%B4%E5%9C%B0&location=Taipei%20City,Taiwan&google_domain=google.com.tw&gl=tw&hl=zh-tw&output=json&include_html=false&max_page=5&id=req0_0002&page=8"
+            },
+            {
+              "page": 9,
+              "link": "https://api.scaleserp.com/search?api_key=14254FCE1A2D441A836733D330465D02&search_type=places&q=%E6%9C%83%E8%AD%B0%E5%A0%B4%E5%9C%B0&location=Taipei%20City,Taiwan&google_domain=google.com.tw&gl=tw&hl=zh-tw&output=json&include_html=false&max_page=5&id=req0_0002&page=9"
+            },
+            {
+              "page": 10,
+              "link": "https://api.scaleserp.com/search?api_key=14254FCE1A2D441A836733D330465D02&search_type=places&q=%E6%9C%83%E8%AD%B0%E5%A0%B4%E5%9C%B0&location=Taipei%20City,Taiwan&google_domain=google.com.tw&gl=tw&hl=zh-tw&output=json&include_html=false&max_page=5&id=req0_0002&page=10"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "places_results": [
+    {
+      "title": "Regus內湖極光",
+      "data_cid": "9585211772244867934",
+      "gps_coordinates": {
+        "latitude": 25.081609,
+        "longitude": 121.567021
+      },
+      "sponsored": false,
+      "extensions": [
+        "Regus內湖極光",
+        "5.0(54)",
+        "辦公室租賃公司",
+        "內湖區, Taipei City",
+        "24 小時營業",
+        "The Executive Centre - Neihu New Century Building為什麼會顯示這則廣告？",
+        "廣告",
+        "4.8(14)",
+        "共同工作空間",
+        "Neihu District, Taipei City",
+        "營業中 ⋅ 結束營業時間：18:00"
+      ],
+      "rating": 5,
+      "reviews": 54,
+      "category": "共同工作空間",
+      "position": 1,
+      "page": "1",
+      "position_overall": 1
+    },
+    {
+      "title": "大瀚市府會議中心",
+      "data_cid": "9807467648076311774",
+      "gps_coordinates": {
+        "latitude": 25.040742899999998,
+        "longitude": 121.56381029999999
+      },
+      "address": "台北市信義區",
+      "sponsored": false,
+      "extensions": [
+        "大瀚市府會議中心",
+        "5.0(8)",
+        "會議中心",
+        "台北市信義區",
+        "\"櫃檯小姐待人親切，有問必答，場地乾淨新穎，離捷運站很近。\""
+      ],
+      "rating": 5,
+      "reviews": 8,
+      "category": "會議中心",
+      "position": 2,
+      "page": "1",
+      "position_overall": 2
+    },
+    {
+      "title": "日富空間 - 場地租借-中正區推薦商務中心、借址登記、教學、會議、共享空間、空間出租",
+      "data_cid": "8521614477649385533",
+      "gps_coordinates": {
+        "latitude": 25.0452606,
+        "longitude": 121.51467589999999
+      },
+      "sponsored": false,
+      "extensions": [
+        "日富空間 - 場地租借-中正區推薦商務中心、借址登記、教學、會議、共享空間、空間出租",
+        "4.9(103)",
+        "多功能室設施",
+        "台北市中正區"
+      ],
+      "rating": 4.9,
+      "reviews": 103,
+      "category": "多功能室設施",
+      "position": 3,
+      "page": "1",
+      "position_overall": 3
+    },
+    {
+      "title": "達文西會議空間 - 場地租借",
+      "data_cid": "5046696649318395616",
+      "gps_coordinates": {
+        "latitude": 25.0518984,
+        "longitude": 121.52836339999998
+      },
+      "sponsored": false,
+      "extensions": [
+        "達文西會議空間 - 場地租借",
+        "4.1(117)",
+        "會議中心",
+        "台北市中山區"
+      ],
+      "rating": 4.1,
+      "reviews": 117,
+      "category": "會議中心",
+      "position": 4,
+      "page": "1",
+      "position_overall": 4
+    },
+    {
+      "title": "TCCC台灣文創訓練中心-台北松江1館",
+      "data_cid": "1799730842575786423",
+      "gps_coordinates": {
+        "latitude": 25.054251999999998,
+        "longitude": 121.53325029999999
+      },
+      "address": "台北市中山區",
+      "sponsored": false,
+      "extensions": [
+        "TCCC台灣文創訓練中心-台北松江1館",
+        "4.2(35)",
+        "多功能室設施",
+        "台北市中山區",
+        "對方的網站提到了「會議場地」"
+      ],
+      "rating": 4.2,
+      "reviews": 35,
+      "category": "多功能室設施",
+      "position": 5,
+      "page": "1",
+      "position_overall": 5
+    },
+    {
+      "title": "MRT文創 古亭6號空間",
+      "data_cid": "7782084551641367584",
+      "gps_coordinates": {
+        "latitude": 25.027801,
+        "longitude": 121.52216600000001
+      },
+      "sponsored": false,
+      "extensions": [
+        "MRT文創 古亭6號空間",
+        "4.4(40)",
+        "多功能室設施",
+        "台北市大安區"
+      ],
+      "rating": 4.4,
+      "reviews": 40,
+      "category": "多功能室設施",
+      "position": 6,
+      "page": "1",
+      "position_overall": 6
+    },
+    {
+      "title": "忠孝456-mySpace我的空間 台北市捷運車站火車站教室場地會議室空間租借租用出租價格比較分享課程活動讀書會",
+      "data_cid": "4592826548690496191",
+      "gps_coordinates": {
+        "latitude": 25.046391699999997,
+        "longitude": 121.51794430000001
+      },
+      "sponsored": false,
+      "extensions": [
+        "忠孝456-mySpace我的空間 台北市捷運車站火車站教室場地會議室空間租借租用出租價格比較分享課程活動讀書會",
+        "5.0(8)",
+        "會議中心",
+        "台北市中正區"
+      ],
+      "rating": 5,
+      "reviews": 8,
+      "category": "會議中心",
+      "position": 7,
+      "page": "1",
+      "position_overall": 7
+    },
+    {
+      "title": "學客空間｜台北教室租借、台北場地租借、台北會議室租借、台北空間租借、台北教室出租",
+      "data_cid": "3185003978485906989",
+      "gps_coordinates": {
+        "latitude": 25.054983699999998,
+        "longitude": 121.53285499999998
+      },
+      "sponsored": false,
+      "extensions": [
+        "學客空間｜台北教室租借、台北場地租借、台北會議室租借、台北空間租借、台北教室出租",
+        "4.8(31)",
+        "多功能室設施",
+        "台北市中山區"
+      ],
+      "rating": 4.8,
+      "reviews": 31,
+      "category": "多功能室設施",
+      "position": 8,
+      "page": "1",
+      "position_overall": 8
+    },
+    {
+      "title": "萊客共享空間（台北火車站館）",
+      "data_cid": "29876091107739865",
+      "gps_coordinates": {
+        "latitude": 25.0454269,
+        "longitude": 121.51547599999999
+      },
+      "address": "台北市中正區",
+      "sponsored": false,
+      "extensions": [
+        "萊客共享空間（台北火車站館）",
+        "5.0(72)",
+        "共同工作空間",
+        "台北市中正區",
+        "\"環境很美 明亮 租借場地的好去處！\""
+      ],
+      "rating": 5,
+      "reviews": 72,
+      "category": "共同工作空間",
+      "position": 9,
+      "page": "1",
+      "position_overall": 9
+    },
+    {
+      "title": "TCCC台灣文創訓練中心-台北松江2館",
+      "data_cid": "7431522663254815554",
+      "gps_coordinates": {
+        "latitude": 25.0542025,
+        "longitude": 121.533279
+      },
+      "address": "台北市中山區",
+      "sponsored": false,
+      "extensions": [
+        "TCCC台灣文創訓練中心-台北松江2館",
+        "4.1(404)",
+        "多功能室設施",
+        "台北市中山區",
+        "對方的網站提到了「會議場地」"
+      ],
+      "rating": 4.1,
+      "reviews": 404,
+      "category": "多功能室設施",
+      "position": 10,
+      "page": "1",
+      "position_overall": 10
+    },
+    {
+      "title": "收多易共享會議室－南港興華｜會議室出租｜短租場地｜教室租借",
+      "data_cid": "13558128920280391688",
+      "gps_coordinates": {
+        "latitude": 25.054336799999998,
+        "longitude": 121.60519459999999
+      },
+      "sponsored": false,
+      "extensions": [
+        "收多易共享會議室－南港興華｜會議室出租｜短租場地｜教室租借",
+        "沒有評論",
+        "多功能室設施",
+        "台北市南港區"
+      ],
+      "position": 11,
+      "page": "1",
+      "position_overall": 11
+    },
+    {
+      "title": "台北101國際會議中心",
+      "data_cid": "6474661853938191834",
+      "gps_coordinates": {
+        "latitude": 25.0329803,
+        "longitude": 121.56283850000001
+      },
+      "sponsored": false,
+      "extensions": [
+        "台北101國際會議中心",
+        "4.5(15)",
+        "會議中心",
+        "台北市信義區"
+      ],
+      "rating": 4.5,
+      "reviews": 15,
+      "category": "會議中心",
+      "position": 12,
+      "page": "1",
+      "position_overall": 12
+    },
+    {
+      "title": "重南804-mySpace我的空間 台北市捷運車站火車站小型教室場地會議室空間租借租用出租價格比較分享課程活動讀書會",
+      "data_cid": "13812934644292757711",
+      "gps_coordinates": {
+        "latitude": 25.044507,
+        "longitude": 121.5133576
+      },
+      "sponsored": false,
+      "extensions": [
+        "重南804-mySpace我的空間 台北市捷運車站火車站小型教室場地會議室空間租借租用出租價格比較分享課程活動讀書會",
+        "4.4(17)",
+        "會議中心",
+        "台北市中正區"
+      ],
+      "rating": 4.4,
+      "reviews": 17,
+      "category": "會議中心",
+      "position": 13,
+      "page": "1",
+      "position_overall": 13
+    },
+    {
+      "title": "收多易共享會議室－士林劍潭｜會議室出租｜短租場地｜教室租借",
+      "data_cid": "13316581054081157317",
+      "gps_coordinates": {
+        "latitude": 25.088016,
+        "longitude": 121.5231504
+      },
+      "sponsored": false,
+      "extensions": [
+        "收多易共享會議室－士林劍潭｜會議室出租｜短租場地｜教室租借",
+        "沒有評論",
+        "多功能室設施",
+        "台北市士林區"
+      ],
+      "position": 14,
+      "page": "1",
+      "position_overall": 14
+    },
+    {
+      "title": "收多易共享會議室－南港車站｜會議室出租｜短租場地｜教室租借",
+      "data_cid": "5899344462102020300",
+      "gps_coordinates": {
+        "latitude": 25.052895499999998,
+        "longitude": 121.6072597
+      },
+      "sponsored": false,
+      "extensions": [
+        "收多易共享會議室－南港車站｜會議室出租｜短租場地｜教室租借",
+        "沒有評論",
+        "多功能室設施",
+        "台北市南港區"
+      ],
+      "position": 15,
+      "page": "1",
+      "position_overall": 15
+    },
+    {
+      "title": "大瀚民權會議中心",
+      "data_cid": "13403315095437149056",
+      "gps_coordinates": {
+        "latitude": 25.0621027,
+        "longitude": 121.5378875
+      },
+      "address": "台北市中山區",
+      "sponsored": false,
+      "extensions": [
+        "大瀚民權會議中心",
+        "5.0(7)",
+        "會議中心",
+        "台北市中山區",
+        "\"第一次看到會議場地view 這麼好，可以遠眺圓山飯店，邊上課還可以 ...\""
+      ],
+      "rating": 5,
+      "reviews": 7,
+      "category": "會議中心",
+      "position": 16,
+      "page": "1",
+      "position_overall": 16
+    },
+    {
+      "title": "啟程空間｜台北教室租借、台北場地租借、台北會議室租借、台北空間租借、台北教室出租",
+      "data_cid": "3367442697298346561",
+      "gps_coordinates": {
+        "latitude": 25.052194000000004,
+        "longitude": 121.53725899999999
+      },
+      "sponsored": false,
+      "extensions": [
+        "啟程空間｜台北教室租借、台北場地租借、台北會議室租借、台北空間租借、台北教室出租",
+        "5.0(15)",
+        "多功能室設施",
+        "台北市中山區"
+      ],
+      "rating": 5,
+      "reviews": 15,
+      "category": "多功能室設施",
+      "position": 17,
+      "page": "1",
+      "position_overall": 17
+    },
+    {
+      "title": "96書苑",
+      "data_cid": "12562512947316355051",
+      "gps_coordinates": {
+        "latitude": 25.0415706,
+        "longitude": 121.53631929999999
+      },
+      "sponsored": false,
+      "extensions": [
+        "96書苑",
+        "5.0(2)",
+        "會議中心",
+        "台北市大安區"
+      ],
+      "rating": 5,
+      "reviews": 2,
+      "category": "會議中心",
+      "position": 18,
+      "page": "1",
+      "position_overall": 18
+    },
+    {
+      "title": "莉蓮會館 LILY Conference",
+      "data_cid": "16561438832273330583",
+      "gps_coordinates": {
+        "latitude": 25.0621497,
+        "longitude": 121.5731046
+      },
+      "sponsored": false,
+      "extensions": [
+        "莉蓮會館 LILY Conference",
+        "4.2(112)",
+        "多功能室設施",
+        "台北市內湖區"
+      ],
+      "rating": 4.2,
+      "reviews": 112,
+      "category": "多功能室設施",
+      "position": 19,
+      "page": "1",
+      "position_overall": 19
+    },
+    {
+      "title": "大瀚忠孝會議中心",
+      "data_cid": "14268121896874691066",
+      "gps_coordinates": {
+        "latitude": 25.0416769,
+        "longitude": 121.55405320000001
+      },
+      "address": "台北市大安區",
+      "sponsored": false,
+      "extensions": [
+        "大瀚忠孝會議中心",
+        "4.4(62)",
+        "會議中心",
+        "台北市大安區",
+        "\"上個月有去參加活動，場地很棒耶  ㄧ進門感覺很氣派，服務人員也都 ...\""
+      ],
+      "rating": 4.4,
+      "reviews": 62,
+      "category": "會議中心",
+      "position": 20,
+      "page": "1",
+      "position_overall": 20
+    },
+    {
+      "title": "GACC傑登商務會議中心",
+      "data_cid": "13900216557827943058",
+      "gps_coordinates": {
+        "latitude": 25.057298499999998,
+        "longitude": 121.53281150000001
+      },
+      "address": "台北市中山區",
+      "sponsored": false,
+      "extensions": [
+        "GACC傑登商務會議中心",
+        "4.9(39)",
+        "會議中心",
+        "台北市中山區",
+        "\"有教練訓練需求，又想找個舒服獨立的場地，這裡很適合喔\""
+      ],
+      "rating": 4.9,
+      "reviews": 39,
+      "category": "會議中心",
+      "position": 21,
+      "page": "1",
+      "position_overall": 21
+    },
+    {
+      "title": "Regus內湖極光",
+      "data_cid": "9585211772244867934",
+      "gps_coordinates": {
+        "latitude": 25.081609,
+        "longitude": 121.567021
+      },
+      "address": "內湖區, Taipei City",
+      "sponsored": false,
+      "extensions": [
+        "Regus內湖極光",
+        "5.0(54)",
+        "辦公室租賃公司",
+        "內湖區, Taipei City",
+        "24 小時營業"
+      ],
+      "rating": 5,
+      "reviews": 54,
+      "category": "辦公室租賃公司",
+      "position": 1,
+      "page": 2,
+      "position_overall": 22
+    },
+    {
+      "title": "收多易共享會議室－天母｜會議室出租｜短租場地｜教室租借",
+      "data_cid": "6989417790554605758",
+      "gps_coordinates": {
+        "latitude": 25.1185552,
+        "longitude": 121.5293523
+      },
+      "sponsored": false,
+      "extensions": [
+        "收多易共享會議室－天母｜會議室出租｜短租場地｜教室租借",
+        "沒有評論",
+        "多功能室設施",
+        "天母西路3號2F"
+      ],
+      "position": 2,
+      "page": 2,
+      "position_overall": 23
+    },
+    {
+      "title": "BOOKSHOW 說書會",
+      "data_cid": "13024311461250393496",
+      "gps_coordinates": {
+        "latitude": 25.041228,
+        "longitude": 121.57223590000001
+      },
+      "sponsored": false,
+      "extensions": [
+        "BOOKSHOW 說書會",
+        "4.6(41)",
+        "多功能室設施",
+        "3樓, No. 293號忠孝東路五段"
+      ],
+      "rating": 4.6,
+      "reviews": 41,
+      "category": "多功能室設施",
+      "position": 3,
+      "page": 2,
+      "position_overall": 24
+    },
+    {
+      "title": "光鹽會議中心",
+      "data_cid": "11350647528641493342",
+      "gps_coordinates": {
+        "latitude": 25.062600099999997,
+        "longitude": 121.54475789999998
+      },
+      "address": "復興北路369號7樓",
+      "sponsored": false,
+      "extensions": [
+        "光鹽會議中心",
+        "4.1(121)",
+        "會議中心",
+        "復興北路369號7樓",
+        "\"周邊有捷運停車場，場地舒適陽光通風充足，廁所老舊。\""
+      ],
+      "rating": 4.1,
+      "reviews": 121,
+      "category": "會議中心",
+      "position": 4,
+      "page": 2,
+      "position_overall": 25
+    },
+    {
+      "title": "IGU愛成長多元學習空間 | 台北場地租借",
+      "data_cid": "12360134453451791509",
+      "gps_coordinates": {
+        "latitude": 25.051517,
+        "longitude": 121.51688
+      },
+      "address": "承德路一段48號 9號樓之 2",
+      "sponsored": false,
+      "extensions": [
+        "IGU愛成長多元學習空間 | 台北場地租借",
+        "4.4(8)",
+        "多功能室設施",
+        "承德路一段48號 9號樓之 2",
+        "\"... 寬敞明亮，設備新，適合舉辦課程、團體活動及商務會議最佳場所。\""
+      ],
+      "rating": 4.4,
+      "reviews": 8,
+      "category": "多功能室設施",
+      "position": 5,
+      "page": 2,
+      "position_overall": 26
+    },
+    {
+      "title": "台灣六六國際商務中心",
+      "data_cid": "16880414230146195294",
+      "gps_coordinates": {
+        "latitude": 25.083593099999998,
+        "longitude": 121.5623036
+      },
+      "sponsored": false,
+      "extensions": [
+        "台灣六六國際商務中心",
+        "4.8(209)",
+        "辦公室租借代理",
+        "內湖路一段66號10樓"
+      ],
+      "rating": 4.8,
+      "reviews": 209,
+      "category": "辦公室租借代理",
+      "position": 6,
+      "page": 2,
+      "position_overall": 27
+    },
+    {
+      "title": "W share微享空間南京復興館",
+      "data_cid": "14259235402977021259",
+      "gps_coordinates": {
+        "latitude": 25.054166300000002,
+        "longitude": 121.5406383
+      },
+      "sponsored": false,
+      "extensions": [
+        "W share微享空間南京復興館",
+        "4.9(36)",
+        "共同工作空間",
+        "龍江路153號6樓"
+      ],
+      "rating": 4.9,
+      "reviews": 36,
+      "category": "共同工作空間",
+      "position": 7,
+      "page": 2,
+      "position_overall": 28
+    },
+    {
+      "title": "BRCC商元會議中心",
+      "data_cid": "11950025947827726968",
+      "gps_coordinates": {
+        "latitude": 25.057298499999998,
+        "longitude": 121.53281150000001
+      },
+      "address": "松江路200號十二樓之三",
+      "sponsored": false,
+      "extensions": [
+        "BRCC商元會議中心",
+        "4.3(8)",
+        "會議中心",
+        "松江路200號十二樓之三",
+        "\"場地是後現代的風格我們用的應該算是小間的會議室大概可以容納二三 ...\""
+      ],
+      "rating": 4.3,
+      "reviews": 8,
+      "category": "會議中心",
+      "position": 8,
+      "page": 2,
+      "position_overall": 29
+    },
+    {
+      "title": "犇亞商務暨會議中心",
+      "data_cid": "4241977556206787690",
+      "gps_coordinates": {
+        "latitude": 25.0527464,
+        "longitude": 121.54445810000001
+      },
+      "sponsored": false,
+      "extensions": [
+        "犇亞商務暨會議中心",
+        "4.2(1131)",
+        "會議中心",
+        "復興北路99號6樓.15樓"
+      ],
+      "rating": 4.2,
+      "reviews": 1131,
+      "category": "會議中心",
+      "position": 9,
+      "page": 2,
+      "position_overall": 30
+    },
+    {
+      "title": "JR台北場地租借_台北火車站金融教室",
+      "data_cid": "4121967982114032607",
+      "gps_coordinates": {
+        "latitude": 25.043941000000004,
+        "longitude": 121.513411
+      },
+      "address": "重慶南路一段77號3F-4",
+      "sponsored": false,
+      "extensions": [
+        "JR台北場地租借_台北火車站金融教室",
+        "4.8(41)",
+        "多功能室設施",
+        "重慶南路一段77號3F-4",
+        "\"... 及許多美食 非常適合會議、授課等！推薦給需要使用教室的人哦！\""
+      ],
+      "rating": 4.8,
+      "reviews": 41,
+      "category": "多功能室設施",
+      "position": 10,
+      "page": 2,
+      "position_overall": 31
+    },
+    {
+      "title": "59號會議室/教室",
+      "data_cid": "17649896414902098723",
+      "gps_coordinates": {
+        "latitude": 25.0453093,
+        "longitude": 121.54623029999999
+      },
+      "sponsored": false,
+      "extensions": [
+        "59號會議室/教室",
+        "沒有評論",
+        "多功能室設施",
+        "市民大道四段59號"
+      ],
+      "position": 11,
+      "page": 2,
+      "position_overall": 32
+    },
+    {
+      "title": "【iAspire 愛思博】場地租賃 | 會議 | 講座 | 攝影拍攝 | 派對 | 藝文表演 | 展演 | 活動場地 | 表演空間 | 健身團教 | 教育訓練",
+      "data_cid": "11291965992896376140",
+      "gps_coordinates": {
+        "latitude": 25.047729399999998,
+        "longitude": 121.56667340000001
+      },
+      "address": "東興路53號3樓",
+      "sponsored": false,
+      "extensions": [
+        "【iAspire 愛思博】場地租賃 | 會議 | 講座 | 攝影拍攝 | 派對 | 藝文表演 | 展演 | 活動場地 | 表演空間 | 健身團教 | 教育訓練",
+        "4.9(38)",
+        "多功能室設施",
+        "東興路53號3樓",
+        "門市服務"
+      ],
+      "rating": 4.9,
+      "reviews": 38,
+      "category": "多功能室設施",
+      "position": 12,
+      "page": 2,
+      "position_overall": 33
+    },
+    {
+      "title": "陸角空間 6Corner Space",
+      "data_cid": "15047978645930587191",
+      "gps_coordinates": {
+        "latitude": 25.032646999999997,
+        "longitude": 121.5187341
+      },
+      "sponsored": false,
+      "extensions": [
+        "陸角空間 6Corner Space",
+        "4.3(66)",
+        "多功能室設施",
+        "金華街17號6樓"
+      ],
+      "rating": 4.3,
+      "reviews": 66,
+      "category": "多功能室設施",
+      "position": 13,
+      "page": 2,
+      "position_overall": 34
+    },
+    {
+      "title": "升級會議中心-敦南遠企館",
+      "data_cid": "3627244933472855012",
+      "gps_coordinates": {
+        "latitude": 25.024785899999998,
+        "longitude": 121.54920489999998
+      },
+      "address": "和平東路三段63號4樓之2",
+      "sponsored": false,
+      "extensions": [
+        "升級會議中心-敦南遠企館",
+        "4.6(37)",
+        "會議中心",
+        "和平東路三段63號4樓之2",
+        "\"這裡場地、設備都很很新，感覺很有質感，唯一缺點是會議中心，桌上 ...\""
+      ],
+      "rating": 4.6,
+      "reviews": 37,
+      "category": "會議中心",
+      "position": 14,
+      "page": 2,
+      "position_overall": 35
+    },
+    {
+      "title": "緯育TibaMe | 南京復興空間｜南京復興場地租借｜中山區場地租借｜教室租借｜會議室租借｜企業培訓｜教育訓練｜課程講座",
+      "data_cid": "12128099569990168024",
+      "gps_coordinates": {
+        "latitude": 25.052128,
+        "longitude": 121.54325290000001
+      },
+      "sponsored": false,
+      "extensions": [
+        "緯育TibaMe | 南京復興空間｜南京復興場地租借｜中山區場地租借｜教室租借｜會議室租借｜企業培訓｜教育訓練｜課程講座",
+        "5.0(38)",
+        "多功能室設施",
+        "南京東路三段219號5樓"
+      ],
+      "rating": 5,
+      "reviews": 38,
+      "category": "多功能室設施",
+      "position": 15,
+      "page": 2,
+      "position_overall": 36
+    },
+    {
+      "title": "萌創客106",
+      "data_cid": "9157545925405035180",
+      "gps_coordinates": {
+        "latitude": 25.0473315,
+        "longitude": 121.58445189999999
+      },
+      "address": "忠孝東路六段106號",
+      "sponsored": false,
+      "extensions": [
+        "萌創客106",
+        "4.6(23)",
+        "會議中心",
+        "忠孝東路六段106號",
+        "\"喔喔喔喔~本來想給一顆星的，怕太多人來跟我強場地\""
+      ],
+      "rating": 4.6,
+      "reviews": 23,
+      "category": "會議中心",
+      "position": 16,
+      "page": 2,
+      "position_overall": 37
+    },
+    {
+      "title": "升級會議中心-松江101館",
+      "data_cid": "8115171015518268241",
+      "gps_coordinates": {
+        "latitude": 25.0511511,
+        "longitude": 121.53327169999999
+      },
+      "address": "松江路101號4樓",
+      "sponsored": false,
+      "extensions": [
+        "升級會議中心-松江101館",
+        "4.1(136)",
+        "會議中心",
+        "松江路101號4樓",
+        "\"全館包場使用，是個很方便不受打擾的場地，也近捷運站，工作人員也 ...\""
+      ],
+      "rating": 4.1,
+      "reviews": 136,
+      "category": "會議中心",
+      "position": 17,
+      "page": 2,
+      "position_overall": 38
+    },
+    {
+      "title": "收多易共同工作空間-南港車站共享會議室 | Coworking Space CITYLINK 南港共享辦公室 | 台北共用工作空間",
+      "data_cid": "3233876795070868193",
+      "gps_coordinates": {
+        "latitude": 25.0528341,
+        "longitude": 121.60722029999998
+      },
+      "sponsored": false,
+      "extensions": [
+        "收多易共同工作空間-南港車站共享會議室 | Coworking Space CITYLINK 南港共享辦公室 | 台北共用工作空間",
+        "4.8(63)",
+        "共同工作空間",
+        "忠孝東路七段371號B1AF 南側廣場出口2旁"
+      ],
+      "rating": 4.8,
+      "reviews": 63,
+      "category": "共同工作空間",
+      "position": 18,
+      "page": 2,
+      "position_overall": 39
+    },
+    {
+      "title": "華南銀行國際會議中心 HNBK International Convention Center",
+      "data_cid": "16850631099167339459",
+      "gps_coordinates": {
+        "latitude": 25.0344418,
+        "longitude": 121.5691571
+      },
+      "address": "松仁路123號",
+      "sponsored": false,
+      "extensions": [
+        "華南銀行國際會議中心 HNBK International Convention Center",
+        "4.4(636)",
+        "會議中心",
+        "松仁路123號",
+        "\"場地寬闊氣派，出入動線獨立，適合辦理會展、國際會議、頒獎典禮等 ...\""
+      ],
+      "rating": 4.4,
+      "reviews": 636,
+      "category": "會議中心",
+      "position": 19,
+      "page": 2,
+      "position_overall": 40
+    },
+    {
+      "title": "AVENUE | work + space",
+      "data_cid": "1560952263940178355",
+      "gps_coordinates": {
+        "latitude": 25.028767199999997,
+        "longitude": 121.5502022
+      },
+      "sponsored": false,
+      "extensions": [
+        "AVENUE | work + space",
+        "4.4(165)",
+        "共同工作空間",
+        "B1, No. 92號安和路二段"
+      ],
+      "rating": 4.4,
+      "reviews": 165,
+      "category": "共同工作空間",
+      "position": 20,
+      "page": 2,
+      "position_overall": 41
+    },
+    {
+      "title": "SW6找場地 台北大安區 信義安和",
+      "data_cid": "12738945251807489421",
+      "gps_coordinates": {
+        "latitude": 25.0333337,
+        "longitude": 121.55478160000001
+      },
+      "sponsored": false,
+      "extensions": [
+        "SW6找場地 台北大安區 信義安和",
+        "4.7(93)",
+        "多功能室設施",
+        "信義路四段279號6樓"
+      ],
+      "rating": 4.7,
+      "reviews": 93,
+      "category": "多功能室設施",
+      "position": 21,
+      "page": 2,
+      "position_overall": 42
+    }
+  ]
+}
