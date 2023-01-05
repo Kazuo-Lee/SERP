@@ -1,0 +1,981 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 78,
+    "credits_used_this_request": 2,
+    "credits_remaining": 47,
+    "credits_reset_at": "2023-01-21T09:11:54.000Z"
+  },
+  "search_parameters": {
+    "search_type": "places",
+    "q": "family office",
+    "location": "Singapore",
+    "google_domain": "google.com.sg",
+    "gl": "sg",
+    "hl": "en",
+    "page": "1",
+    "max_page": "5",
+    "num": "20",
+    "include_html": "false",
+    "output": "json",
+    "engine": "google"
+  },
+  "search_metadata": {
+    "created_at": "2023-01-05T04:04:29.906Z",
+    "processed_at": "2023-01-05T04:04:36.848Z",
+    "total_time_taken": 6.94,
+    "pages": [
+      {
+        "created_at": "2023-01-05T04:04:29.906Z",
+        "processed_at": "2023-01-05T04:04:31.891Z",
+        "total_time_taken": 1.99,
+        "page": "1",
+        "engine_url": "https://www.google.com.sg/search?q=family+office&gl=sg&hl=en&uule=w+CAIQICIJU2luZ2Fwb3Jl&tbm=lcl&num=20",
+        "html_url": "https://api.scaleserp.com/search?api_key=14254FCE1A2D441A836733D330465D02&search_type=places&q=family+office&location=Singapore&google_domain=google.com.sg&gl=sg&hl=en&page=1&max_page=5&num=20&include_html=false&output=html&engine=google",
+        "json_url": "https://api.scaleserp.com/search?api_key=14254FCE1A2D441A836733D330465D02&search_type=places&q=family+office&location=Singapore&google_domain=google.com.sg&gl=sg&hl=en&page=1&max_page=5&num=20&include_html=false&output=json&engine=google",
+        "location_auto_message": "We have automatically set the 'google_domain', 'gl' and 'hl' parameters to match the supplied location of 'Singapore'. You can stop this behaviour by setting the 'location_auto' parameter to 'false'.",
+        "num_parameter_message": "'num' parameter has no effect when the 'search_type' parameter is set to 'places'. This is because Google fix the number of Places results to 20 (this is a Google-imposed limitation). You can paginate through Places results using the 'page' parameter, i.e. 'page=1' for page 1, 'page=2' for page 2 etc."
+      },
+      {
+        "created_at": "2023-01-05T04:04:31.891Z",
+        "processed_at": "2023-01-05T04:04:36.848Z",
+        "total_time_taken": 4.96,
+        "page": 2,
+        "engine_url": "https://www.google.com.sg/search?q=family+office&gl=sg&hl=en&uule=w+CAIQICIJU2luZ2Fwb3Jl&tbm=lcl&start=20&num=20",
+        "html_url": "https://api.scaleserp.com/search?api_key=14254FCE1A2D441A836733D330465D02&search_type=places&q=family+office&location=Singapore&google_domain=google.com.sg&gl=sg&hl=en&page=2&max_page=5&num=20&include_html=false&output=html&engine=google",
+        "json_url": "https://api.scaleserp.com/search?api_key=14254FCE1A2D441A836733D330465D02&search_type=places&q=family+office&location=Singapore&google_domain=google.com.sg&gl=sg&hl=en&page=2&max_page=5&num=20&include_html=false&output=json&engine=google",
+        "location_auto_message": "We have automatically set the 'google_domain', 'gl' and 'hl' parameters to match the supplied location of 'Singapore'. You can stop this behaviour by setting the 'location_auto' parameter to 'false'.",
+        "num_parameter_message": "'num' parameter has no effect when the 'search_type' parameter is set to 'places'. This is because Google fix the number of Places results to 20 (this is a Google-imposed limitation). You can paginate through Places results using the 'page' parameter, i.e. 'page=1' for page 1, 'page=2' for page 2 etc."
+      }
+    ]
+  },
+  "search_information": {
+    "original_query_yields_zero_results": false,
+    "query_displayed": "family office",
+    "detected_location": "Singapore"
+  },
+  "pagination": {
+    "pages": [
+      {
+        "current": 1,
+        "next": "https://www.google.com.sg/search?q=family+office&gl=sg&hl=en&tbm=lcl&ei=Tky2Y_HIJP-Rxc8P9aG86Aw&start=20&sa=N&ved=2ahUKEwjxp-muxq_8AhX_SPEDHfUQD80Q8NMDegQIBBAO&uule=w+CAIQICIJU2luZ2Fwb3Jl",
+        "other_pages": [
+          {
+            "page": 2,
+            "link": "https://www.google.com.sg/search?q=family+office&gl=sg&hl=en&tbm=lcl&ei=Tky2Y_HIJP-Rxc8P9aG86Aw&start=20&sa=N&ved=2ahUKEwjxp-muxq_8AhX_SPEDHfUQD80Q8tMDegQIBBAM&uule=w+CAIQICIJU2luZ2Fwb3Jl"
+          }
+        ],
+        "api_pagination": {
+          "next": "https://api.scaleserp.com/search?api_key=14254FCE1A2D441A836733D330465D02&search_type=places&q=family%20office&location=Singapore&google_domain=google.com.sg&gl=sg&hl=en&max_page=5&include_html=false&output=json&id=req0&page=2",
+          "other_pages": [
+            {
+              "page": 2,
+              "link": "https://api.scaleserp.com/search?api_key=14254FCE1A2D441A836733D330465D02&search_type=places&q=family%20office&location=Singapore&google_domain=google.com.sg&gl=sg&hl=en&max_page=5&include_html=false&output=json&id=req0&page=2"
+            }
+          ]
+        }
+      },
+      {
+        "current": 2,
+        "other_pages": [
+          {
+            "page": 1,
+            "link": "https://www.google.com.sg/search?q=family+office&gl=sg&hl=en&tbm=lcl&ei=UEy2Y4LuHvmVxc8P75WoiA8&start=0&sa=N&ved=2ahUKEwiC1t2vxq_8AhX5SvEDHe8KCvE4FBDy0wN6BAgEEAo&uule=w+CAIQICIJU2luZ2Fwb3Jl"
+          }
+        ]
+      }
+    ]
+  },
+  "places_results": [
+    {
+      "title": "Raffles Family Office Singapore",
+      "data_cid": "8113476719790141029",
+      "data_id": "0x31da19f0ac2691df:0x7098dc16f07e2e65",
+      "gps_coordinates": {
+        "latitude": 1.284479,
+        "longitude": 103.85108199999999
+      },
+      "address": "1 Raffles Place, Level 29 , One Raffles Place Tower 1, Singapore 048616",
+      "sponsored": false,
+      "link": "https://www.rafflesgroup.co/",
+      "extensions": [
+        "Raffles Family Office Singapore",
+        "5.0(1)",
+        "Investment company",
+        "Singapore",
+        "6817 5890"
+      ],
+      "phone": "6817 5890",
+      "rating": 5,
+      "reviews": 1,
+      "category": "Investment company",
+      "position": 1,
+      "page": "1",
+      "position_overall": 1
+    },
+    {
+      "title": "CPS Family Office Services",
+      "data_cid": "9912517737632681855",
+      "data_id": "0x31da1945586f5b27:0x8990565d155acf7f",
+      "gps_coordinates": {
+        "latitude": 1.3027623,
+        "longitude": 103.83429009999999
+      },
+      "address": "391B Orchard Rd, level 22 , Singapore 238874",
+      "sponsored": false,
+      "link": "https://cpsfamilyoffice.com/",
+      "extensions": [
+        "CPS Family Office Services",
+        "5.0(2)",
+        "Consultant",
+        "Singapore",
+        "In Ngee Ann City",
+        "Open ⋅ Closes 5PM",
+        "9782 6285"
+      ],
+      "phone": "9782 6285",
+      "rating": 5,
+      "reviews": 2,
+      "category": "Consultant",
+      "position": 2,
+      "page": "1",
+      "position_overall": 2
+    },
+    {
+      "title": "Aglaia Family Office",
+      "data_cid": "8794982832373001449",
+      "data_id": "0x31da190c2a5aaaab:0x7a0e0e49c9406ce9",
+      "gps_coordinates": {
+        "latitude": 1.2822166,
+        "longitude": 103.85047499999999
+      },
+      "address": "137 Market St, , Singapore 048943",
+      "sponsored": false,
+      "link": "https://aglaiaim.com/contact-us/",
+      "extensions": [
+        "Aglaia Family Office",
+        "No reviews",
+        "Financial institution",
+        "Singapore",
+        "In Grace Global Raffles",
+        "Open ⋅ Closes 6PM",
+        "6536 5110"
+      ],
+      "phone": "6536 5110",
+      "position": 3,
+      "page": "1",
+      "position_overall": 3
+    },
+    {
+      "title": "Das Family Office (Singapore)",
+      "data_cid": "2709376794578293704",
+      "data_id": "0x31da190db20a5779:0x2599a3d6fb8693c8",
+      "gps_coordinates": {
+        "latitude": 1.2818159999999998,
+        "longitude": 103.84844539999999
+      },
+      "address": "101B Telok Ayer St, #03-02 , Singapore 068574",
+      "sponsored": false,
+      "link": "http://www.dfo.sg/",
+      "extensions": [
+        "Das Family Office (Singapore)",
+        "No reviews",
+        "Investment company",
+        "Singapore",
+        "In Chinatown Point",
+        "Open ⋅ Closes 5PM",
+        "6635 7326"
+      ],
+      "phone": "6635 7326",
+      "position": 4,
+      "page": "1",
+      "position_overall": 4
+    },
+    {
+      "title": "North-East Family Office Singapore",
+      "data_cid": "1951978259527193792",
+      "data_id": "0x31da19b80f3a70d9:0x1b16d1e2906754c0",
+      "gps_coordinates": {
+        "latitude": 1.2780684,
+        "longitude": 103.8443003
+      },
+      "address": "52B Tras St, , Singapore 078991",
+      "sponsored": false,
+      "link": "https://north-east.group/",
+      "extensions": [
+        "North-East Family Office Singapore",
+        "1.0(4)",
+        "Financial institution",
+        "Singapore",
+        "In Chinatown Point",
+        "Open ⋅ Closes 5PM",
+        "6818 9719"
+      ],
+      "phone": "6818 9719",
+      "rating": 1,
+      "reviews": 4,
+      "category": "Financial institution",
+      "position": 5,
+      "page": "1",
+      "position_overall": 5
+    },
+    {
+      "title": "Society of Family Offices",
+      "data_cid": "17250744049650089543",
+      "gps_coordinates": {
+        "latitude": 1.2792559,
+        "longitude": 103.8447685
+      },
+      "address": "Singapore",
+      "sponsored": false,
+      "extensions": [
+        "Society of Family Offices",
+        "No reviews",
+        "Financial institution",
+        "Singapore",
+        "In Maxwell House",
+        "6838 0852"
+      ],
+      "phone": "6838 0852",
+      "position": 6,
+      "page": "1",
+      "position_overall": 6
+    },
+    {
+      "title": "Evolve Family Office",
+      "data_cid": "5964797538521733964",
+      "data_id": "0x31da199088889c73:0x52c737c228b65b4c",
+      "gps_coordinates": {
+        "latitude": 1.2818357999999999,
+        "longitude": 103.85073799999999
+      },
+      "address": "18 Robinson Rd, #05-01 , Singapore 048547",
+      "sponsored": false,
+      "link": "http://evolvepartners.com.sg/",
+      "extensions": [
+        "Evolve Family Office",
+        "5.0(1)",
+        "Investment company",
+        "Singapore",
+        "Near Lau Pa Sat",
+        "Open ⋅ Closes 6PM"
+      ],
+      "rating": 5,
+      "reviews": 1,
+      "category": "Investment company",
+      "position": 7,
+      "page": "1",
+      "position_overall": 7
+    },
+    {
+      "title": "MarcWhittaker - Family Office",
+      "data_cid": "13349046868444447075",
+      "data_id": "0x31da19dbb8da89c9:0xb94157668bac0163",
+      "gps_coordinates": {
+        "latitude": 1.3205234,
+        "longitude": 103.8524753
+      },
+      "address": "205 Balestier Rd, #02-03 , The Mezzo, Singapore 329682",
+      "sponsored": false,
+      "extensions": [
+        "MarcWhittaker - Family Office",
+        "5.0(2)",
+        "Investment service",
+        "Singapore",
+        "In The Mezzo",
+        "Open ⋅ Closes 5PM",
+        "6339 6951"
+      ],
+      "phone": "6339 6951",
+      "rating": 5,
+      "reviews": 2,
+      "category": "Investment service",
+      "position": 8,
+      "page": "1",
+      "position_overall": 8
+    },
+    {
+      "title": "Family Office · Singapore PR / Citizenship | Global Immigration",
+      "data_cid": "16582338989942571194",
+      "data_id": "0x31da19d43bce73a5:0xe6204d7450a300ba",
+      "gps_coordinates": {
+        "latitude": 1.2913131,
+        "longitude": 103.85124719999999
+      },
+      "address": "1 Coleman Street, The Adelphi 09-11, , 179803",
+      "sponsored": false,
+      "link": "https://globalimmigration.sg/",
+      "extensions": [
+        "Family Office",
+        "Singapore PR / Citizenship | Global Immigration",
+        "No reviews",
+        "Consultant",
+        "Singapore",
+        "Near the National Gallery Singapore",
+        "Open ⋅ Closes 6PM",
+        "8437 4979"
+      ],
+      "phone": "8437 4979",
+      "position": 9,
+      "page": "1",
+      "position_overall": 9
+    },
+    {
+      "title": "Dynasty Family Office Pte. Limited",
+      "data_cid": "9544087613958479608",
+      "data_id": "0x31da190d9cbd780d:0x8473691e3f335ef8",
+      "gps_coordinates": {
+        "latitude": 1.280365,
+        "longitude": 103.8480164
+      },
+      "address": "14 Stanley St, , Singapore 068733",
+      "sponsored": false,
+      "extensions": [
+        "Dynasty Family Office Pte. Limited",
+        "No reviews",
+        "Investment service",
+        "Singapore",
+        "In Chinatown Point"
+      ],
+      "position": 10,
+      "page": "1",
+      "position_overall": 10
+    },
+    {
+      "title": "JL Capital Family Office Pte Ltd",
+      "data_cid": "6889462075124459191",
+      "data_id": "0x31da19ad90477ab3:0x5f9c49416151a6b7",
+      "gps_coordinates": {
+        "latitude": 1.2891137,
+        "longitude": 103.84666709999999
+      },
+      "address": "8 Eu Tong Sen St, , Singapore 059818",
+      "sponsored": false,
+      "extensions": [
+        "JL Capital Family Office Pte Ltd",
+        "No reviews",
+        "Singapore",
+        "In Clarke Quay Central"
+      ],
+      "position": 11,
+      "page": "1",
+      "position_overall": 11
+    },
+    {
+      "title": "Ministry of Social and Family Development",
+      "data_cid": "1578566052894372897",
+      "data_id": "0x31da175c86d0749f:0x15e8317625427421",
+      "gps_coordinates": {
+        "latitude": 1.3336773,
+        "longitude": 103.8393766
+      },
+      "address": "512 Thomson Rd, #10-00 , MSF Building, Singapore 298136",
+      "sponsored": false,
+      "link": "http://www.msf.gov.sg/",
+      "extensions": [
+        "Ministry of Social and Family Development",
+        "3.2(19)",
+        "Government office",
+        "Singapore",
+        "In SLF Complex",
+        "Open ⋅ Closes 6PM",
+        "1800 222 0000"
+      ],
+      "phone": "1800 222 0000",
+      "rating": 3.2,
+      "reviews": 19,
+      "category": "Government office",
+      "position": 12,
+      "page": "1",
+      "position_overall": 12
+    },
+    {
+      "title": "Family Office For Art",
+      "data_cid": "11471005346469989250",
+      "data_id": "0x31da1ba4eaefb4d3:0x9f3132962cf34b82",
+      "gps_coordinates": {
+        "latitude": 1.2910781999999998,
+        "longitude": 103.8148337
+      },
+      "address": "2 Leng Kee Rd, #03-06 , Singapore 159086",
+      "sponsored": false,
+      "extensions": [
+        "Family Office For Art",
+        "No reviews",
+        "Art gallery",
+        "Singapore",
+        "In Thye Hong Centre"
+      ],
+      "position": 13,
+      "page": "1",
+      "position_overall": 13
+    },
+    {
+      "title": "Alto Partners Pte Ltd - Multi-Family Office",
+      "data_cid": "6037006158712901804",
+      "data_id": "0x31da190969fd9013:0x53c7c11daced90ac",
+      "gps_coordinates": {
+        "latitude": 1.3059064999999999,
+        "longitude": 103.83149829999999
+      },
+      "address": "350, #18-05 Orchard Rd, , Shaw House, 238868",
+      "sponsored": false,
+      "link": "http://www.alto-partners.com/",
+      "extensions": [
+        "Alto Partners Pte Ltd - Multi-Family Office",
+        "No reviews",
+        "Investment service",
+        "Singapore",
+        "Near ION Orchard",
+        "6908 4898",
+        "On-site services",
+        "Online appointments"
+      ],
+      "phone": "6908 4898",
+      "position": 14,
+      "page": "1",
+      "position_overall": 14
+    },
+    {
+      "title": "MWS Family Service Centre - Tampines",
+      "data_cid": "9326785512712231065",
+      "data_id": "0x31da3d06d69aaaab:0x816f66022578d899",
+      "gps_coordinates": {
+        "latitude": 1.360754,
+        "longitude": 103.9543142
+      },
+      "address": "470 Tampines Street 44, #01-194 , Singapore 520470",
+      "sponsored": false,
+      "link": "https://mws.sg/centre-location/mws-family-service-centre-tampines/",
+      "extensions": [
+        "MWS Family Service Centre - Tampines",
+        "4.1(12)",
+        "Corporate office",
+        "Singapore",
+        "Open ⋅ Closes 6PM",
+        "6787 2001"
+      ],
+      "phone": "6787 2001",
+      "rating": 4.1,
+      "reviews": 12,
+      "category": "Corporate office",
+      "position": 15,
+      "page": "1",
+      "position_overall": 15
+    },
+    {
+      "title": "Koru Family Office Pte. Ltd.",
+      "data_cid": "1304032842456858322",
+      "data_id": "0x31da19094fd24c01:0x1218daf60e157ed2",
+      "gps_coordinates": {
+        "latitude": 1.2831583000000002,
+        "longitude": 103.8509744
+      },
+      "address": "9 Raffles Pl, #06-00 , Republic Plaza, Singapore 048619",
+      "sponsored": false,
+      "link": "http://www.korufo.com/",
+      "extensions": [
+        "Koru Family Office Pte. Ltd.",
+        "No reviews",
+        "Fund management company",
+        "Singapore",
+        "In Republic Plaza",
+        "6817 1166"
+      ],
+      "phone": "6817 1166",
+      "position": 16,
+      "page": "1",
+      "position_overall": 16
+    },
+    {
+      "title": "Ministry of Social and Family Development",
+      "data_cid": "12429882984323622472",
+      "data_id": "0x31da1bd37147c9cf:0xac7fd0b7c8482648",
+      "gps_coordinates": {
+        "latitude": 1.2872434,
+        "longitude": 103.81482439999999
+      },
+      "address": "20 Lengkok Bahru, #04-02 , Singapore 159053",
+      "sponsored": false,
+      "extensions": [
+        "Ministry of Social and Family Development",
+        "4.0(1)",
+        "Local government office",
+        "Singapore",
+        "In Enabling Village",
+        "Open now"
+      ],
+      "rating": 4,
+      "reviews": 1,
+      "category": "Local government office",
+      "position": 17,
+      "page": "1",
+      "position_overall": 17
+    },
+    {
+      "title": "Castle Family Office",
+      "data_cid": "9632189293524036852",
+      "data_id": "0x31da19a8d3afca5b:0x85ac692101d22cf4",
+      "gps_coordinates": {
+        "latitude": 1.2953952,
+        "longitude": 103.8596329
+      },
+      "address": "8 Temasek Blvd, Tower Three , Suntec, Singapore 038988",
+      "sponsored": false,
+      "extensions": [
+        "Castle Family Office",
+        "No reviews",
+        "Financial institution",
+        "Singapore",
+        "In Suntec Tower 3",
+        "Open ⋅ Closes 6PM"
+      ],
+      "position": 18,
+      "page": "1",
+      "position_overall": 18
+    },
+    {
+      "title": "L-Bridge Capital Pte Ltd (Multi-Family Office)",
+      "data_cid": "3283937534626253699",
+      "data_id": "0x31da190c162fffff:0x2d92e3c9e7f84b83",
+      "gps_coordinates": {
+        "latitude": 1.2832446,
+        "longitude": 103.84965969999999
+      },
+      "address": "3 Church St, #11-03 , Samsung Hub, Singapore 049483",
+      "sponsored": false,
+      "link": "http://www.lbridgecap.com/",
+      "extensions": [
+        "L-Bridge Capital Pte Ltd (Multi-Family Office)",
+        "No reviews",
+        "Fund management company",
+        "Singapore",
+        "In Samsung Hub",
+        "Open ⋅ Closes 6PM",
+        "6540 9399"
+      ],
+      "phone": "6540 9399",
+      "position": 19,
+      "page": "1",
+      "position_overall": 19
+    },
+    {
+      "title": "Master Khoo Family Office",
+      "data_cid": "9707692352402272487",
+      "sponsored": false,
+      "link": "http://www.masterkhoo.com/",
+      "extensions": [
+        "Master Khoo Family Office",
+        "No reviews",
+        "Feng shui consultant",
+        "Open ⋅ Closes 5PM",
+        "8875 1338"
+      ],
+      "phone": "8875 1338",
+      "position": 20,
+      "page": "1",
+      "position_overall": 20
+    },
+    {
+      "title": "Aglaia Investment Management Pte Ltd",
+      "data_cid": "14879892628719854034",
+      "data_id": "0x31da190c2b275081:0xce7fff823ecce1d2",
+      "gps_coordinates": {
+        "latitude": 1.2822064,
+        "longitude": 103.8505105
+      },
+      "address": "137 Market St, , Singapore 048943",
+      "sponsored": false,
+      "link": "https://aglaiaim.com/",
+      "extensions": [
+        "Aglaia Investment Management Pte Ltd",
+        "No reviews",
+        "Fund management company",
+        "Singapore",
+        "In Grace Global Raffles",
+        "6536 1013"
+      ],
+      "phone": "6536 1013",
+      "position": 1,
+      "page": 2,
+      "position_overall": 21
+    },
+    {
+      "title": "Master Khoo Family Office",
+      "data_cid": "9707692352402272487",
+      "sponsored": false,
+      "link": "http://www.masterkhoo.com/",
+      "extensions": [
+        "Master Khoo Family Office",
+        "No reviews",
+        "Feng shui consultant",
+        "Open ⋅ Closes 5PM",
+        "8875 1338"
+      ],
+      "phone": "8875 1338",
+      "position": 2,
+      "page": 2,
+      "position_overall": 22
+    },
+    {
+      "title": "Ministry Of Social And Family Development, Probation and Community Rehabilitation Service (PCRS)",
+      "data_cid": "5735535085944026100",
+      "data_id": "0x31da1a292adbdd2f:0x4f98b6c5c27bb3f4",
+      "gps_coordinates": {
+        "latitude": 1.2961392,
+        "longitude": 103.8158916
+      },
+      "address": "1 Kay Siang Rd, #01-10 , Singapore 248922",
+      "sponsored": false,
+      "link": "http://www.msf.gov.sg/",
+      "extensions": [
+        "Ministry Of Social And Family Development, Probation and Community Rehabilitation Service (PCRS)",
+        "2.6(5)",
+        "Government office",
+        "Singapore",
+        "In Tanglin International Centre",
+        "Open ⋅ Closes 7PM",
+        "6472 9500"
+      ],
+      "phone": "6472 9500",
+      "rating": 2.6,
+      "reviews": 5,
+      "category": "Government office",
+      "position": 3,
+      "page": 2,
+      "position_overall": 23
+    },
+    {
+      "title": "Kristal.AI - Digital Private Wealth Management | Investment & Asset Manager | Family Office",
+      "data_cid": "13435604134244003932",
+      "data_id": "0x31da19077ea32a23:0xba74dac67462305c",
+      "gps_coordinates": {
+        "latitude": 1.2817262,
+        "longitude": 103.8514479
+      },
+      "address": "6 Raffles Quay, #16-01 , Singapore 048580",
+      "sponsored": false,
+      "link": "https://kristal.ai/?refCode=GMBS?utm_source=google&utm_medium=organic&utm_campaign=GMBS",
+      "extensions": [
+        "Kristal.AI - Digital Private Wealth Management | Investment & Asset Manager | Family Office",
+        "3.8(13)",
+        "Fund management company",
+        "Singapore",
+        "In AXA Tower",
+        "Open ⋅ Closes 6PM",
+        "9239 1022"
+      ],
+      "phone": "9239 1022",
+      "rating": 3.8,
+      "reviews": 13,
+      "category": "Fund management company",
+      "position": 4,
+      "page": 2,
+      "position_overall": 24
+    },
+    {
+      "title": "Focus on the Family Singapore",
+      "data_cid": "13086560481361561019",
+      "data_id": "0x31da1716982be16f:0xb59ccd6c173885bb",
+      "gps_coordinates": {
+        "latitude": 1.3497979999999998,
+        "longitude": 103.8495102
+      },
+      "address": "9 Bishan Place #08-03 Junction 8 Office Tower, , 579837",
+      "sponsored": false,
+      "link": "https://www.family.org.sg/",
+      "extensions": [
+        "Focus on the Family Singapore",
+        "3.6(7)",
+        "Marriage or relationship counselor",
+        "Singapore",
+        "In Junction 8 Shopping Centre",
+        "Open ⋅ Closes 6PM",
+        "6336 1444",
+        "On-site services",
+        "Online appointments"
+      ],
+      "phone": "6336 1444",
+      "rating": 3.6,
+      "reviews": 7,
+      "category": "Marriage or relationship counselor",
+      "position": 5,
+      "page": 2,
+      "position_overall": 25
+    },
+    {
+      "title": "Raffles Family Wealth Trust Pte. Ltd.",
+      "data_cid": "1869499398950837634",
+      "data_id": "0x31da190e8a82761d:0x19f1cbcc5e455d82",
+      "gps_coordinates": {
+        "latitude": 1.281131,
+        "longitude": 103.85186999999999
+      },
+      "address": "65 Chulia St, , Singapore 049513",
+      "sponsored": false,
+      "link": "https://www.rafflesgroup.co/",
+      "extensions": [
+        "Raffles Family Wealth Trust Pte. Ltd.",
+        "No reviews",
+        "Business management consultant",
+        "Singapore",
+        "In the One Raffles Quay South Tower",
+        "Open now",
+        "6559 4200"
+      ],
+      "phone": "6559 4200",
+      "position": 6,
+      "page": 2,
+      "position_overall": 26
+    },
+    {
+      "title": "Office of the Commissioner for the Maintenance of Parents",
+      "data_cid": "6832753960178460352",
+      "data_id": "0x31da1bd261517977:0x5ed2d1867a14a6c0",
+      "gps_coordinates": {
+        "latitude": 1.2864456,
+        "longitude": 103.8112438
+      },
+      "address": "Family Link @ Lengkok Bahru, 8 Lengkok Bahru #02-01, 8 Lengkok Bahru, , Singapore 159052",
+      "sponsored": false,
+      "link": "https://www.msf.gov.sg/Pages/default.aspx",
+      "extensions": [
+        "Office of the Commissioner for the Maintenance of Parents",
+        "No reviews",
+        "Government office",
+        "Singapore",
+        "Open ⋅ Closes 5PM",
+        "1800 222 0000"
+      ],
+      "phone": "1800 222 0000",
+      "position": 7,
+      "page": 2,
+      "position_overall": 27
+    },
+    {
+      "title": "Wah Hin & Co Pte Ltd",
+      "data_cid": "17176148446763317673",
+      "data_id": "0x31da1909547de3e5:0xee5df0025ab479a9",
+      "gps_coordinates": {
+        "latitude": 1.2845775,
+        "longitude": 103.8514809
+      },
+      "address": "1 Raffles Pl, #51-00 , Singapore 048616",
+      "sponsored": false,
+      "link": "http://wah-hin.com/",
+      "extensions": [
+        "Wah Hin & Co Pte Ltd",
+        "5.0(1)",
+        "Investment company",
+        "Singapore",
+        "In Raffles Place",
+        "Open now",
+        "6645 9242"
+      ],
+      "phone": "6645 9242",
+      "rating": 5,
+      "reviews": 1,
+      "category": "Investment company",
+      "position": 8,
+      "page": 2,
+      "position_overall": 28
+    },
+    {
+      "title": "CONFIDERI Family Office",
+      "data_cid": "6384051993802035183",
+      "data_id": "0x31da190969c32c57:0x5898b576d631cfef",
+      "gps_coordinates": {
+        "latitude": 1.285574,
+        "longitude": 103.85159399999999
+      },
+      "address": "6 Battery Rd, Level #30-01 , Singapore 049909",
+      "sponsored": false,
+      "link": "http://www.confideri.com/",
+      "extensions": [
+        "CONFIDERI Family Office",
+        "5.0(1)",
+        "Business management consultant",
+        "Singapore",
+        "Near The Fullerton Hotel Singapore",
+        "Open ⋅ Closes 6PM",
+        "9151 5622"
+      ],
+      "phone": "9151 5622",
+      "rating": 5,
+      "reviews": 1,
+      "category": "Business management consultant",
+      "position": 9,
+      "page": 2,
+      "position_overall": 29
+    },
+    {
+      "title": "Golden Equator Wealth",
+      "data_cid": "18034337533869459534",
+      "data_id": "0x31da199a66562047:0xfa46d66fe1c8884e",
+      "gps_coordinates": {
+        "latitude": 1.2990692000000001,
+        "longitude": 103.8580647
+      },
+      "address": "3 Fraser St, #05-28 DUO Tower, , SPECTRUM, 189352",
+      "sponsored": false,
+      "link": "https://www.goldenequatorwealth.com/",
+      "extensions": [
+        "Golden Equator Wealth",
+        "No reviews",
+        "Financial consultant",
+        "Singapore",
+        "Open ⋅ Closes 6PM",
+        "6887 8124"
+      ],
+      "phone": "6887 8124",
+      "position": 10,
+      "page": 2,
+      "position_overall": 30
+    },
+    {
+      "title": "Nair Pte Ltd",
+      "data_cid": "18165215401574737604",
+      "data_id": "0x31da190ec8166a39:0xfc17cf2a0f5126c4",
+      "gps_coordinates": {
+        "latitude": 1.285363,
+        "longitude": 103.8512244
+      },
+      "address": "80 Raffles Pl, #2 , UOB Plaza, Singapore 048624",
+      "sponsored": false,
+      "extensions": [
+        "Nair Pte Ltd",
+        "No reviews",
+        "Corporate office",
+        "Singapore",
+        "In UOB Plaza 1",
+        "Open ⋅ Closes 6PM",
+        "6535 5072"
+      ],
+      "phone": "6535 5072",
+      "position": 11,
+      "page": 2,
+      "position_overall": 31
+    },
+    {
+      "title": "PTT Family",
+      "data_cid": "3518315190150999451",
+      "data_id": "0x31da197263216f5d:0x30d391064ccfad9b",
+      "gps_coordinates": {
+        "latitude": 1.280393,
+        "longitude": 103.84167339999999
+      },
+      "address": "36 Keong Saik Rd., , Singapore 089143",
+      "sponsored": false,
+      "extensions": [
+        "PTT Family",
+        "No reviews",
+        "Post office",
+        "Singapore",
+        "Open now",
+        "6327 1939"
+      ],
+      "phone": "6327 1939",
+      "position": 12,
+      "page": 2,
+      "position_overall": 32
+    },
+    {
+      "title": "Alexstrasza Holdings",
+      "data_cid": "16356022555946540191",
+      "data_id": "0x31da195504c6d0b3:0xe2fc43db51785c9f",
+      "gps_coordinates": {
+        "latitude": 1.2845452,
+        "longitude": 103.85269749999999
+      },
+      "address": "20, #23-01 Collyer Quay, , 049319",
+      "sponsored": false,
+      "link": "https://www.alxza.com/",
+      "extensions": [
+        "Alexstrasza Holdings",
+        "No reviews",
+        "Investment company",
+        "Singapore",
+        "Near The Fullerton Hotel Singapore",
+        "Open ⋅ Closes 6PM"
+      ],
+      "position": 13,
+      "page": 2,
+      "position_overall": 33
+    },
+    {
+      "title": "Office of the Public Guardian",
+      "data_cid": "9390481810313109793",
+      "data_id": "0x31da175c8639daf9:0x8251b1741d7ae121",
+      "gps_coordinates": {
+        "latitude": 1.287323,
+        "longitude": 103.81482439999999
+      },
+      "address": "20 Lengkok Bahru, #04-02 Office of the Public Guardian, Family @ Enabling Village, 159053",
+      "sponsored": false,
+      "extensions": [
+        "Office of the Public Guardian",
+        "3.3(6)",
+        "Government office",
+        "Singapore",
+        "In Enabling Village",
+        "Open ⋅ Closes 5:30PM",
+        "1800 226 6222"
+      ],
+      "phone": "1800 226 6222",
+      "rating": 3.3,
+      "reviews": 6,
+      "category": "Government office",
+      "position": 14,
+      "page": 2,
+      "position_overall": 34
+    },
+    {
+      "title": "Asiamin",
+      "data_cid": "15479343877457837827",
+      "gps_coordinates": {
+        "latitude": 1.3037147999999998,
+        "longitude": 103.8332642
+      },
+      "address": "Singapore",
+      "sponsored": false,
+      "link": "http://www.asiamin.com/",
+      "extensions": [
+        "Asiamin",
+        "No reviews",
+        "Investment company",
+        "Singapore",
+        "In Wisma Atria",
+        "6726 2633"
+      ],
+      "phone": "6726 2633",
+      "position": 15,
+      "page": 2,
+      "position_overall": 35
+    },
+    {
+      "title": "Corecam Pte. Ltd.",
+      "data_cid": "16277635567173635058",
+      "data_id": "0x31da190935638c59:0xe1e5c74e44a60bf2",
+      "gps_coordinates": {
+        "latitude": 1.2854117,
+        "longitude": 103.8502537
+      },
+      "address": "80 Raffles Place UOB Plaza, #1 , #59-02, 048624",
+      "sponsored": false,
+      "link": "https://www.corecam.com/",
+      "extensions": [
+        "Corecam Pte. Ltd.",
+        "No reviews",
+        "Investment service",
+        "Singapore",
+        "In UOB Plaza 1",
+        "Open ⋅ Closes 6PM",
+        "6535 5479"
+      ],
+      "phone": "6535 5479",
+      "position": 16,
+      "page": 2,
+      "position_overall": 36
+    }
+  ]
+}
